@@ -3,3 +3,7 @@ git commit -a -m "Your message goes here"
 -a : to add without using git add command
 git log --pretty=format:"%h %ad | %s%d [%an]" --date=short
 #to check the logs from starting
+git commit -a --amend -m "msg"
+#to remove the previous commit all together
+
+
