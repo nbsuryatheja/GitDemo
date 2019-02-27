@@ -1,3 +1,4 @@
+code commit to master
 git push origin -o master
 git commit -a -m "Your message goes here"
 -a : to add without using git add command
