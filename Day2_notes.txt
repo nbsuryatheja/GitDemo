@@ -6,4 +6,5 @@ git log --pretty=format:"%h %ad | %s%d [%an]" --date=short
 git commit -a --amend -m "msg"
 #to remove the previous commit all together
 this is new branch testing
+feature change
 
